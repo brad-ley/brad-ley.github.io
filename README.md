@@ -1,4 +1,3 @@
-## bradley
 ### Not sure how you ended up here, but welcome
 
 I am a Physics graduate student studying EPR spectroscopy and my code definitely reflects that.

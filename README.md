@@ -5,7 +5,7 @@ I am a Physics graduate student studying EPR spectroscopy and my code definitely
 I hope to add more as my PhD progresses, but for now there isn't much here.
 
 A bit about me:
-* Vim-using amateur programming enthusiast
+* Amateur programming enthusiast
 * \\thread
 
 ## My repos 

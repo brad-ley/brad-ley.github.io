@@ -1,37 +1,25 @@
-## Welcome to my website
+## bradley
+### Not sure how you ended up here, but welcome
 
 I am a Physics graduate student studying EPR spectroscopy and my code definitely reflects that.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I hope to add more as my PhD progresses, but for now there isn't much here.
 
-### Markdown
+A bit about me:
+* Vim-using amateur programming enthusiast
+* \\thread
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### My repos 
 
-```markdown
-Syntax highlighted code block
+Useful [EPR code](https://github.com/brad-ley/misc-useful), including plot_gui (in Python) that allows drag-and-drop plotting for a variety of column-vector data files. [plot_gui](https://github.com/brad-ley/misc-useful/blob/master/plot_gui_v3.py) functionality also includes:
+* Log-linear or log-log plotting on either axis
+* x-axis limit setting
+* .csv export and matplotlib .csv import and .png formatting for professional export
+* Independent axis and any or all dependent axis data selection
+* Multiple window plotting functionality, as well as stacking plots from different files in same window
+There are also .py files for reformatting rephased .dat files from the EPR spectrometer into absorption and dispersion file groups that may be plot using [plot_gui](https://github.com/brad-ley/misc-useful/blob/master/plot_gui_v3.py) or [stack_plot](https://github.com/brad-ley/misc-useful/blob/master/stack_plot.py) as well as a script that extracts peak-to-peak linewidth (in Gauss) as a function of temperature and reformats it for plotting, in either [plot_gui](https://github.com/brad-ley/misc-useful/blob/master/plot_gui_v3.py) or [plot_p2p](https://github.com/brad-ley/misc-useful/blob/master/plot_p2p.py).
+My only other public repo (currently) is used for [zero-field-split powder-pattern](https://github.com/brad-ley/matlab-zfs/blob/master/gd_csc.m) generation over a range of spin-coupled radii.
 
-# Header 1
-## Header 2
-### Header 3
+### Pull requests 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brad-ley/brad-ley.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to make one, any and all additions are welcome (as long as they are constructive and don't remove any functionality)!

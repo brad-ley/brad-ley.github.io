@@ -11,7 +11,7 @@ A bit about me:
 
 ## My repos 
 
-### Useful [EPR code](https://github.com/brad-ley/misc-useful), including plot_gui (in Python) that allows drag-and-drop plotting for a variety of column-vector data files. [plot_gui](https://github.com/brad-ley/misc-useful/blob/master/plot_gui_v3.py) functionality also includes:
+### Useful [EPR code](https://github.com/brad-ley/misc-useful), including [plot_gui](https://github.com/brad-ley/misc-useful/blob/master/plot_gui_v3.py) (in Python) that allows drag-and-drop plotting for a variety of column-vector data files. [plot_gui](https://github.com/brad-ley/misc-useful/blob/master/plot_gui_v3.py) functionality also includes:
 * Log-linear or log-log plotting on either axis
 * x-axis limit setting
 * .csv export and matplotlib .csv import and .png formatting for professional export

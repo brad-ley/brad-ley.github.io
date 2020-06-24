@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
 title: [brad-ley]
 description: [Compilation and short description of my repos]
-plugins: jemoji
+plugins:
+  - jemoji

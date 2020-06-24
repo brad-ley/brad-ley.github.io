@@ -6,7 +6,7 @@ I hope to add more as my PhD progresses, but for now there isn't much here.
 
 A bit about me:
 * Amateur programming enthusiast
-* From :canada: and a big fan of the Canucks, Blue Jays, and Raptors
+* Big fan of the Canucks, Blue Jays, and Raptors
 * \\thread
 
 ## My repos 

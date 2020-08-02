@@ -18,7 +18,7 @@ A bit about me:
 * Independent axis and any or all dependent axis data selection
 * Multiple window plotting functionality, as well as stacking plots from different files in same window
 
-There are also [.py files](https://github.com/brad-ley/misc-useful/blob/master/overlay_newfile.py) for reformatting rephased .dat files from the EPR spectrometer into absorption and dispersion file groups that may be plot using [plotGUI](https://github.com/brad-ley/misc-useful/blob/master/plotGUI.py) or [stack_plot](https://github.com/brad-ley/misc-useful/blob/master/stack_plot.py), as well as a script that extracts peak-to-peak linewidth (in Gauss) as a function of temperature and reformats it for plotting.
+There are also [.py files](https://github.com/brad-ley/misc-useful/blob/master/overlay_newfile.py) for reformatting rephased .dat files from the EPR spectrometer into absorption and dispersion file groups that may be plot using [plotGUI](https://github.com/brad-ley/misc-useful/blob/master/plotGUI.py) or [stackPlot](https://github.com/brad-ley/misc-useful/blob/master/stack_plot.py), as well as a scripts that [extract peak-to-peak linewidth](https://github.com/brad-ley/misc-useful/blob/master/peak2peak.py), [subsets of spectrometer datafiles](https://github.com/brad-ley/misc-useful/blob/master/shortenData.py), and even a [print-line status bar](https://github.com/brad-ley/misc-useful/blob/master/statusBar.py)!
 
 ### My only other public repo (currently) is used for [zero-field-split powder-pattern](https://github.com/brad-ley/matlab-zfs/blob/master/gd_csc.m) generation over a range of spin-coupled radii.
 
